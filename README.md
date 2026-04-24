@@ -2,7 +2,7 @@
 - 👀 I am interested in network and web design and artificial intelligence.
 - 🌱 I’m currently learning js.
 - ⚡ Fun fact: I befor dont like programing but right nowlove ❤️ coding right now
-- i am gholam parsa sanaee pour
+- my sarvar is parsa sanaee pour
 
 
 <!---
