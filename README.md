@@ -1,5 +1,5 @@
-- 👋 Hi, I’m asal yazdnia
-- 👀 I am interested in network and web design and artificial intelligence.
+- 👋 Hi, My Name is: "Asal yazdnia"
+- 👀 I am interested in network and web design.
 - 🌱 I’m currently learning js.
 - ⚡ Fun fact: I befor dont like programing but right nowlove ❤️ coding right now
 
