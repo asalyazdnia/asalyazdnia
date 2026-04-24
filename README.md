@@ -1,7 +1,9 @@
 - 👋 Hi, I’m asal yazdnia
 - 👀 I am interested in network and web design and artificial intelligence.
-- 🌱 I’m currently learning UI/UX design.
-- ⚡ Fun fact: I hate coding right now😂🤦‍♀️
+- 🌱 I’m currently learning js.
+- ⚡ Fun fact: I befor dont like programing but right nowlove ❤️ coding right now
+- i am gholam parsa sanaee pour
+
 
 <!---
 asalyazdnia/asalyazdnia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
